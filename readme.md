@@ -4,7 +4,7 @@
 
 ## How to install
 
--   Download \`build.apk\` from [SideQuesst](https://sidequestvr.com/app/1123/vrd).
+-   Download \`build.apk\` from [itch.io](https://jwechrs.itch.io/simplebowling).
 -   Install \`adb\`. See [android document](https://developer.android.com/studio/command-line/adb?hl=ja) for more detail.
 -   Install by running \`adb install build-release.apk\`
 - Launch app from "Unknown sources"
